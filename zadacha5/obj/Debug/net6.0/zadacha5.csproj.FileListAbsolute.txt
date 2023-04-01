@@ -1,0 +1,15 @@
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\bin\Debug\net6.0\zadacha5.exe
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\bin\Debug\net6.0\zadacha5.deps.json
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\bin\Debug\net6.0\zadacha5.runtimeconfig.json
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\bin\Debug\net6.0\zadacha5.dll
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\bin\Debug\net6.0\zadacha5.pdb
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.csproj.AssemblyReference.cache
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.AssemblyInfoInputs.cache
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.AssemblyInfo.cs
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.csproj.CoreCompileInputs.cache
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.dll
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\refint\zadacha5.dll
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.pdb
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\zadacha5.genruntimeconfig.cache
+C:\Users\Касатки\Desktop\Dima_courses\Work_Git\ZadachiC#semenar\DzZadachiC#\zadacha5\obj\Debug\net6.0\ref\zadacha5.dll
