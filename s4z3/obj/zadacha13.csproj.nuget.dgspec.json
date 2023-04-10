@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\zadacha13\\zadacha13.csproj": {}
+    "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\s4z3\\zadacha13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\zadacha13\\zadacha13.csproj": {
+    "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\s4z3\\zadacha13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\zadacha13\\zadacha13.csproj",
+        "projectUniqueName": "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\s4z3\\zadacha13.csproj",
         "projectName": "zadacha13",
-        "projectPath": "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\zadacha13\\zadacha13.csproj",
+        "projectPath": "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\s4z3\\zadacha13.csproj",
         "packagesPath": "C:\\Users\\Касатки\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\zadacha13\\obj\\",
+        "outputPath": "C:\\Users\\Касатки\\Desktop\\Dima_courses\\Work_Git\\ZadachiC#semenar\\DzZadachiC#\\s4z3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Касатки\\AppData\\Roaming\\NuGet\\NuGet.Config"
