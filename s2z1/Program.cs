@@ -5,6 +5,6 @@
 782 -> 8
 918 -> 1*/
 Console.Clear();
-int num = int.Parse(Console.ReadLine());
-int result = num / 10 % 10;
-Console.WriteLine($"{num} -> {result}"); 
+int num = new Random().Next(100, 1000);
+int result = num % 100 / 10; 
+Console.WriteLine($"{num} -> {result}");

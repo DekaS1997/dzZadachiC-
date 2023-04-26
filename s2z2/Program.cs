@@ -4,23 +4,19 @@
 645 -> 5
 78 -> третьей цифры нет
 32679 -> 6*/
+
 Console.Clear();
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
-int ThirdDigit(int number)
+int thirdDigit(int number)
 {
-    int result =- 1;
-    if(number >= 100)
+    while(number > 999)
     {
-        while(number > 999)
-        {
-            number = number / 10;
-        }
-        result = number % 10;
+        number /= 10;
     }
-    return result;
+    return number % 10;
 }
-if (ThirdDigit(number) == -1)
+if (number < 100)
 Console.WriteLine("Третьей цифры нет");
 else
-Console.WriteLine($"Третья цифра: {ThirdDigit(number)}");
+Console.WriteLine($"Третья цифра: {thirdDigit(number)}");

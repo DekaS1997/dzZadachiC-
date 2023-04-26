@@ -3,13 +3,14 @@
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 
 // 6, 1, 33 -> [6, 1, 33]
-int[] array = GetBinaryArray(8);
-Console.WriteLine($"[{String.Join(", ", array)}]");
-int[] GetBinaryArray(int size){
+int[] array = GetArrayElements(8);
+Console.Write($"[{String.Join(", ", array)}]");
+int[] GetArrayElements(int size)
+{
     int[] result = new int[size];
     for(int i = 0; i < size; i++)
     {
-        result[i] = new Random().Next(100);
+        result[i] = new Random().Next(1,100);
     }
     return result;
 }

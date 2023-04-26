@@ -9,7 +9,12 @@ Console.Clear();
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
 int pal = 0, num = number;
-while (number > 0) {pal = pal * 10 + number % 10; number /= 10;}
+while (number > 0) 
+{
+    pal = pal * 10 + number % 10;//0*10+12821%10=0+1=1; 1*10+1282%10=12; 12*10+128%10=128; 128*10+12%10=1282;
+    //1282*10+1%10=12821.
+    number /= 10;//12821/10=1282; 1282/10=128; 128/10=12; 12/10=1; 1/10=0.
+}
 if(num == pal){
     Console.WriteLine("палиндром");
 }else{

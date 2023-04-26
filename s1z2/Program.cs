@@ -24,4 +24,3 @@ if(thirdNumber > max)
     max = thirdNumber;
 }
 Console.WriteLine("max = " + max);
-

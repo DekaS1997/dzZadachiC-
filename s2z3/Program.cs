@@ -5,18 +5,18 @@
 7 -> да
 1 -> нет*/
 Console.Clear();
-Console.Write("Ввести день невдели: ");
-int numberDayOfWeek = int.Parse(Console.ReadLine());
-if(numberDayOfWeek < 1 || numberDayOfWeek > 7)
+Console.Write("Введите число: ");
+int numDayOfWeek = int.Parse(Console.ReadLine());
+
+if(numDayOfWeek < 1 || numDayOfWeek > 7)
 {
-    Console.WriteLine("Введен неправельный номер: ");
+    Console.WriteLine("Такого дня недели нет");
     return;
 }
-if(numberDayOfWeek < 5)
+if(numDayOfWeek <= 5)
 {
     Console.WriteLine("Будни");
-}
-else if(numberDayOfWeek > 5)
+}else if(numDayOfWeek >= 6)
 {
-Console.WriteLine("Выходной");
+    Console.WriteLine("Выходной");
 }
